@@ -4,7 +4,7 @@
 int main()
 {
   int i;
-
+// wwwwwaiasasa
 
   int j;
   int kx;
